@@ -24,7 +24,7 @@ Selected Research Publications and Achievements
 
 **Journal Paper**
 
-- **[TKDD]** **Kaijun Liu**, Sijie Ruan, Cheng Long and Liang Yu. "Modeling On-road trajectories with multi-task learning." Under review in 2023 ACM Transactions on Knowledge Discovery from Data.
+- **[TKDD]** **Kaijun Liu**, Sijie Ruan, Cheng Long and Liang Yu. "Modeling On-road trajectories with multi-task learning." Published in 2023 ACM Transactions on Knowledge Discovery from Data.
 
 Under Review
 
