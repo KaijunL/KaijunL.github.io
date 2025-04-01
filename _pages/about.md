@@ -18,6 +18,7 @@ Selected Research Publications and Achievements
 
 **Conference Papers**
 
+- Liang Zhang, Sijie Ruan, **Kaijun Liu** and Cheng Long. "DiffPOI: Cold Start Point-of-Interest Representation Learning with Conditional Diffusion Model." In International Joint Conference on Neural Networks.
 - **[WSDM'25]** Qiuyu Zhu, Liang Zhang, Qianxiong Xu, **Kaijun Liu**, Cheng Long, Xiaoyang Wang. "HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning." [[Paper](https://arxiv.org/pdf/2407.13158)]
 - **[MDM'22]** **Kaijun Liu**, Sijie Ruan, Qianxiong Xu, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, and Sinno Jialin Pan. "Modeling trajectories with multi-task learning." In 2022 23rd IEEE International Conference on Mobile Data Management, pp. 208-213. IEEE, 2022
 - **[IECON]** Mengmi Zhang, Hailong Qin, Menglu Lan, Jiaxin Lin, Shuai Wang, **Kaijun Liu**, Feng Lin, and Ben M. Chen. "A high fidelity simulator for a quadrotor UAV using ROS and Gazebo." In IECON 2015-41st Annual Conference of the IEEE Industrial Electronics Society, pp. 002846-002851. IEEE.
@@ -29,7 +30,7 @@ Selected Research Publications and Achievements
 Under Review
 
 - **Kaijun Liu**, Sijie Ruan, Liang Zhang, Cheng Long and Liang Yu. "DiffMove: Human Trajectory Recovery via Diffusion Model" Under review in the Thirteenth International Conference on Learning Representations (ICLR2025).
-- Liang Zhang, Sijie Ruan, **Kaijun Liu** and Cheng Long. "DiffPOI: Cold Start Point-of-Interest Representation Learning with Conditional Diffusion Model." Under Review at International Conference on Database Systems for Advanced Applications.
+
 
 Achievements
 
