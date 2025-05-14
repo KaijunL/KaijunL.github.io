@@ -17,7 +17,7 @@ I received my Ph.D degree from Nanyang Technological University (NTU), Singapore
 Selected Research Publications and Achievements
 
 **Conference Papers**
-
+- **[ICML'25]** **Kaijun Liu**, Sijie Ruan, Liang Zhang, Cheng Long and Liang Yu. "Generative Human Trajectory Recovery via Embedding-Space Conditional Diffusion" Accepted in the Forty-second International Conference on Machine Learning.
 - **[IJCNN'25]** Liang Zhang, Sijie Ruan, **Kaijun Liu** and Cheng Long. "DiffPOI: Cold Start Point-of-Interest Representation Learning with Conditional Diffusion Model." In International Joint Conference on Neural Networks.
 - **[WSDM'25]** Qiuyu Zhu, Liang Zhang, Qianxiong Xu, **Kaijun Liu**, Cheng Long, Xiaoyang Wang. "HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning." [[Paper](https://arxiv.org/pdf/2407.13158)] In the 18th ACM International Conference on Web Search and Data Mining.
 - **[MDM'22]** **Kaijun Liu**, Sijie Ruan, Qianxiong Xu, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, and Sinno Jialin Pan. "Modeling trajectories with multi-task learning." In 2022 23rd IEEE International Conference on Mobile Data Management, pp. 208-213. IEEE, 2022
@@ -27,9 +27,6 @@ Selected Research Publications and Achievements
 
 - **[TKDD]** **Kaijun Liu**, Sijie Ruan, Cheng Long and Liang Yu. "Modeling On-road trajectories with multi-task learning." Published in 2023 ACM Transactions on Knowledge Discovery from Data.
 
-Under Review
-
-- **Kaijun Liu**, Sijie Ruan, Liang Zhang, Cheng Long and Liang Yu. "DiffMove: Human Trajectory Recovery via Diffusion Model" Under review in the Thirteenth International Conference on Learning Representations (ICLR2025).
 
 
 Achievements
